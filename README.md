@@ -9,7 +9,7 @@
   <img alt="DarkLight" src="https://github.com/smartwatch11/iSchedule/assets/45270999/b16794ea-12b1-49dd-af46-ae1d13f3ffd9" width="30%">
 </p>
 <p align="center">
-  <img alt="Light" src="https://github.com/smartwatch11/CutCutPro/assets/45270999/d2365b14-85d5-4acc-8040-f1ff39341951" width="30%">
+  <img alt="Light" src="https://github.com/smartwatch11/iSchedule/assets/45270999/e6c095da-7999-4cf8-a012-7907569b270a" width="30%">
 &nbsp; &nbsp;
   <img alt="Dark" src="https://github.com/smartwatch11/iSchedule/assets/45270999/eec6f672-16f4-4688-bc6e-121d79bb17cd" width="30%">
   &nbsp; &nbsp;
