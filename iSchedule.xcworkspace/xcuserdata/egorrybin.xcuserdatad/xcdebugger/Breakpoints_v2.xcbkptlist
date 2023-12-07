@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EA90E34A-8E0A-49C5-88D4-D8057FBA921D"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "26719FF5-E4B1-4E55-B9A9-8864292859AB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iSchedule/Controllers/Tasks/TasksOptionsTableView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "saveBtnTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "26719FF5-E4B1-4E55-B9A9-8864292859AB - 9755110d00ec95e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iSchedule.TasksOptionsTableView.saveBtnTapped() -&gt; ()"
+                  moduleName = "iSchedule"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/projects/iSchedule/iSchedule/Controllers/Tasks/TasksOptionsTableView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "800">
+               </Location>
+               <Location
+                  uuid = "26719FF5-E4B1-4E55-B9A9-8864292859AB - 9755110d00ec95e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iSchedule.TasksOptionsTableView.saveBtnTapped() -&gt; ()"
+                  moduleName = "iSchedule"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/egorrybin/Desktop/projects/iSchedule/iSchedule/Controllers/Tasks/TasksOptionsTableView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "980">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
